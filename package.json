@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parse": "^0.1.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "main": "app",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
